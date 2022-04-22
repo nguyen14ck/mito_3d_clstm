@@ -1,4 +1,4 @@
-This repository contains the implementation of our paper
+This repository contains the implementation of our paper of 3D Convolutional Long Short Term Memory (CLSTM) network.
 
 ```
 Nguyen, N. P., White, T., & Bunyak, F. Mitochondria Instance Segmentation in Electron Microscopy Image Volumes using 3D Deep Learning Networks (2021). IEEE/Applied Imagery Pattern Recognition Workshop, AIPR.
