@@ -31,7 +31,7 @@ pip install git+https://github.com/zudi-lin/pytorch_connectomics
 pip install -r requirements.txt
 ```
 
-===============================================
+
 
 ## Train
 ```
@@ -42,7 +42,7 @@ with
 --model: check point path (default is None)
 --data: data path   
 
-===============================================
+
 
 ## Test
 ```
