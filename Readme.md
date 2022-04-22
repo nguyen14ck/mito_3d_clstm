@@ -13,7 +13,7 @@ Nguyen, N. P., White, T., & Bunyak, F. Mitochondria Instance Segmentation in Ele
 It relies on the following projects:  
 [CFCM-2D](https://github.com/faustomilletari/CFCM-2D)  
 [ConvLSTM](https://github.com/rogertrullo/pytorch_convlstm)  
-[MONAI](https://github.com/Project-MONAI/MONAI)
+[MONAI](https://github.com/Project-MONAI/MONAI)  
 [TorchIO](https://github.com/fepegar/torchio)  
 [Segmenation Models Pytorch](https://github.com/qubvel/segmentation_models.pytorch)  
 [Connectomics](https://github.com/zudi-lin/pytorch_connectomics)
