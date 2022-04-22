@@ -1,0 +1,17 @@
+
+python==3.8.5
+numpy
+matplotlib
+pandas
+scipy
+pytorch
+torchinfo
+monai
+segmentation-models-pytorch
+hdf5storage
+seaborn
+ipywidgets
+yacs
+
+https://github.com/zudi-lin/pytorch_connectomics
+
