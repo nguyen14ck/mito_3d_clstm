@@ -39,7 +39,7 @@ python train_mito.py --model --data
 ```
 
 with  
---model: check point path (default is None)
+--model: check point path (default is None)  
 --data: data path   
 
 
