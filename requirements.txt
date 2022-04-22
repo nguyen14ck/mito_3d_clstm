@@ -13,5 +13,4 @@ seaborn
 ipywidgets
 yacs
 
-https://github.com/zudi-lin/pytorch_connectomics
 
