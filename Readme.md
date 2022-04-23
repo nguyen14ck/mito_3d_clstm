@@ -57,7 +57,7 @@ with
 The dataset used in this work is downloaded from
 ```
 Wei, D., Lin, Z., Franco-Barranco, D., Wendt, N., Liu, X., Yin, W., Huang, X., Gupta, A., Jang, W. D., Wang, X., Arganda-Carreras, I., Lichtman, J. W., & Pfister, H. (2020). MitoEM Dataset: Large-scale 3D Mitochondria Instance Segmentation from EM Images. Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention, 12265, 66–76. https://doi.org/10.1007/978-3-030-59722-1_7
-```
+```  
 
 
 
