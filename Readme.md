@@ -7,8 +7,6 @@ Nguyen, N. P., White, T., & Bunyak, F. Mitochondria Instance Segmentation in Ele
 ![3D_CLSTM](media/mito_pipeline.jpg "3D CLSTM")
 
 
-<img src="media/rat.jpg" alt="Rat volume" width="1200"/>
-
 
 It relies on the following projects:  
 [CFCM-2D](https://github.com/faustomilletari/CFCM-2D)  
@@ -53,7 +51,7 @@ with
 --model: check point path  
 --data: data path
 
-
+<img src="media/rat.jpg" alt="Rat volume" width="1200"/>
 
 ## References  
 The dataset used in this work is downloaded from
