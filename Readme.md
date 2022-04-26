@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## Train
 ```
-python train_mito.py --model --data
+python train_mito.py --model path_to_model --data path_to_data
 ```
 
 with  
@@ -44,7 +44,7 @@ with
 
 ## Test
 ```
-python test_mito.py --model --data
+python test_mito.py --model path_to_model --data path_to_data
 ```
 
 with  
